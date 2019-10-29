@@ -98,7 +98,7 @@ int     last_digit(const unsigned long int *arr, size_t arr_size) {
 
 int     main(void) {
     int     res;
-    const unsigned long int     arr[5] = {0, 0, 0, 0, 0};
+    const unsigned long int     arr[5] = {9, 9, 9, 9, 9};
     size_t  size;
 
     size = 5;
